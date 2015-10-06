@@ -1,0 +1,42 @@
+nav {
+	padding: 10px;
+}
+nav a {
+	text-decoration: none;
+}
+
+nav ul {
+	list-style: none;
+}
+
+.panel-heading {
+	text-align: center;
+	font-weight: bold;
+	font-size: 2em;
+}
+
+#user_data {
+	overflow: hidden;
+}
+
+h2 {
+	font-size: 1.5em;
+}
+
+.comment {
+	padding-bottom: 5px;
+}
+
+.comment a {
+	color: black;
+}
+
+.date {
+	color: rgb(61, 61, 41);
+	font-size: 0.9em;
+	font-style: italic;
+}
+
+p {
+	font-size: 1em;
+}
