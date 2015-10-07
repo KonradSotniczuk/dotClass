@@ -15,6 +15,11 @@ nav ul {
 	font-size: 2em;
 }
 
+.panel-heading a {
+	text-decoration: none;
+	color: white;
+}
+
 #user_data {
 	overflow: hidden;
 }
@@ -47,3 +52,12 @@ p {
 	font-size: 1em;
 }
 
+footer {
+	padding: 2%;
+	margin: 1%;
+	border-radius: 4px;
+	background-color: #f8f8f8;
+    border-color: #e7e7e7;
+    border: 1px solid transparent;
+    font-size: 0.9em;
+}
